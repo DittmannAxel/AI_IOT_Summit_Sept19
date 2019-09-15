@@ -8,5 +8,5 @@ But first the agenda:
 ![Agenda](agenda_iotaisummit.jpg)
 
 Slideshare: <br>
-[Intel's presentation on AI] (IntelAIVisionupdateMicrosoftAIuIOTSummit2019v09.pdf)
+[Intel's presentation on AI] (https://github.com/DittmannAxel/AI_IOT_Summit_Sept19/blob/master/IntelAIVisionupdateMicrosoftAIuIOTSummit2019v09.pdf)
 
