@@ -7,3 +7,6 @@ But first the agenda:
 
 ![Agenda](agenda_iotaisummit.jpg)
 
+Slideshare: <br>
+[Intel's presentation on AI] (IntelAIVisionupdateMicrosoftAIuIOTSummit2019v09.pdf)
+
