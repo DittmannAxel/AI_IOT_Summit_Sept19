@@ -8,7 +8,7 @@ But first the agenda:
 ![Agenda](agenda_iotaisummit.jpg)
 
 ### Slideshare:
-[Intel's presentation on AI](https://github.com/DittmannAxel/AI_IOT_Summit_Sept19/blob/master/IntelAIVisionupdateMicrosoftAIuIOTSummit2019v09.pdf), Contact: Stefani Eisele: <Stefani.Eisele@Intel.com> and Florian Doerr: <Florian.Doerr@Intel.com>   <br>
+[Intel's presentation on AI](https://github.com/DittmannAxel/AI_IOT_Summit_Sept19/blob/master/IntelAIVisionupdateMicrosoftAIuIOTSummit2019v09.pdf), Contact: Stefani Eisele: <Stefani.Eisele@Intel.com> and Julian Fischer: <Julian.Fischer@intel.com>   <br>
 [NVIDIA's presentation on AI](https://github.com/DittmannAxel/AI_IOT_Summit_Sept19/blob/master/NVIDIA_Azure_IoT_v1.pdf), Contact: Dr. Ulrich Knechtel: <uknechtel@nvidia.com> <br>
 [Databases](https://github.com/DittmannAxel/AI_IOT_Summit_Sept19/blob/master/AzureSQLDW.pdf). Contact: Ruediger Schickhaus: <Ruediger.Schickhaus@Microsoft.com><br>
 [IOT and AI around the globe](https://github.com/DittmannAxel/AI_IOT_Summit_Sept19/blob/master/IOTuAIaroundtheglobe.pdf), Contact: Dr. Lydia Nemec - Twitter: @LydiaNemec
