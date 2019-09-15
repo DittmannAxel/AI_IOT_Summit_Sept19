@@ -5,5 +5,5 @@ Thank you all for your attendance. It was a real pleasure to have you on board. 
 
 But first the agenda:
 
-<center> ![Agenda](agenda_iotaisummit.jpg)  </center>
+![Agenda](agenda_iotaisummit.jpg)
 
