@@ -21,7 +21,7 @@ Azure DevOps with AI, Contact: Dr. Mohammad Zamaninasab: <Mohammad.Zamaninasab@m
 Industrial Use Case, Contact: Mirko Zipfel <Mirko.Zipfel@Zeiss.com>, Axel Dittmann <Axel.Dittmann@Microsoft.com> - Twitter: @DittmannAxel <br>
 Practical Demo & IOT Update, Contact: Stepan Bechynsky <Stepan.Bechynsky@Microsoft.com>, Vitaliy Slepakov <Vitaliy.Slepakov@Microsoft.com> 
 ### Additional Information ###
-The paper which Lydia was talking about Uli session: [Benefits from using mixed precision computations in the ELPA-AEO and ESSEX-II eigensolver projects](https://link.springer.com/article/10.1007/s13160-019-00360-8) <br>
+The paper which Lydia was talking about Uli's session: [Benefits from using mixed precision computations in the ELPA-AEO and ESSEX-II eigensolver projects](https://link.springer.com/article/10.1007/s13160-019-00360-8) <br>
 
 # stay tuned, will update, once I get the all the info #
 
