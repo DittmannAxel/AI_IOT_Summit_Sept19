@@ -26,8 +26,11 @@ The paper which Lydia was talking about Uli's session: [Benefits from using mixe
 ## additional Information we had spoken about: ##
 
 https://docs.microsoft.com/en-us/azure/iot-dps/
+
 https://docs.microsoft.com/en-us/azure/iot-pnp/overview-iot-plug-and-play
+
 https://github.com/Azure/IoTPlugandPlay
+
 https://channel9.msdn.com/Shows/Internet-of-Things-Show/Introduction-to-IoT-Plug-and-Play
 
 
