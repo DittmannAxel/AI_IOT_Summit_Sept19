@@ -23,7 +23,7 @@ Practical Demo & [IOT Update](https://github.com/DittmannAxel/AI_IOT_Summit_Sept
 ### Additional Information ###
 The paper which Lydia was talking about Uli's session: [Benefits from using mixed precision computations in the ELPA-AEO and ESSEX-II eigensolver projects](https://link.springer.com/article/10.1007/s13160-019-00360-8) <br>
 
-## additional Information we had spoken about: ##
+## Information we had spoken about: ##
 
 https://docs.microsoft.com/en-us/azure/iot-dps/
 
